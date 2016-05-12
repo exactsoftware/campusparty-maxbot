@@ -7,6 +7,8 @@ var app = express();
 app.get('/', function (req, res) {
   res.contentType("text/plain");
   if (req.query.question) {
+    // Please insert your awesome bot logic here.
+    // Below you see some sample questions with pre-filled answers.
     if (req.query.question === "What time do you start the qualifying race of the Formula 1 Monaco?") {
       res.send("13:00");
     } else if (req.query.question === "What do you think of the Formula 1 Russia?") {
