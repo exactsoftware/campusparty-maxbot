@@ -1,1 +1,1 @@
-# campusparty-maxbot
+# Maximizing Max Challenge - Bot
