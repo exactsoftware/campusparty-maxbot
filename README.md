@@ -13,7 +13,7 @@ git clone https://github.com/exactsoftware/maxbotchallenge-sample.git
 
 ### Run the application
 ```bash
-npm Install
+npm install
 npm start
 ```
 
