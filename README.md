@@ -8,7 +8,7 @@
 
 ### Clone the repository
 ```bash
-git clone https://github.com/exactsoftware/maxbotchallenge-sample.git
+git clone https://github.com/exactsoftware/maxbotchallenge-nodejs.git
 ```
 
 ### Run the application
